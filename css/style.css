@@ -1,0 +1,12 @@
+.background {
+    background-color: #ff6d00 !important;
+}
+
+.hover:hover {
+    color: white !important;
+}
+
+.sticky {
+    position: fixed !important;
+    z-index: 12 !important;
+}
